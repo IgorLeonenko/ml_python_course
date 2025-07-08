@@ -2,4 +2,4 @@
 *_tools.ipynb
 .venv
 .python-version
-./cnn/dataset/*
+cnn/dataset/
